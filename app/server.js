@@ -1,7 +1,7 @@
 const http = require('http');
 
 const server = http.createServer((req, res) => {
-    res.write("Hello DevOps CI/CD Pipelineee develop by bhushan bhau yadav patil");
+    res.write("Hello DevOps CI/CD Pipelineee develop by DevOps Team");
     res.end();
 });
 
