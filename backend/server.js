@@ -19,4 +19,4 @@ app.post("/api", async (req, res) => {
   res.send("Saved");
 });
 
-app.listen(5000, () => console.log("Backend running"));
+app.listen(5000, () => console.log("Backend is running"));
